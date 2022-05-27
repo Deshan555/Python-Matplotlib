@@ -111,6 +111,8 @@ plt.show()
 ```
 ![Expected Output: ](https://matplotlib.org/stable/_images/sphx_glr_marker_reference_001.png)
 
+[**Use that Marker Referance**]()
+
 
 ## Multiple Points
 
@@ -134,7 +136,9 @@ plot.show()
 
 ```
 
-![Expected Output: ](https://matplotlib.org/stable/_images/sphx_glr_marker_reference_001.png)
+**Output**
+
+![Expected Output: ](https://github.com/Deshan555/Python-Matplotlib/blob/main/1.Matplotlib%20Pyplot/Figure_3.png)
 
 ## Default X-Points
 
@@ -155,3 +159,7 @@ plt.plot(ypoints)
 plt.show()
 
 ```
+
+**Output**
+
+![Expected Output: ](https://github.com/Deshan555/Python-Matplotlib/blob/main/1.Matplotlib%20Pyplot/Figure_2.png)
