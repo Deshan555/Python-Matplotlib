@@ -110,7 +110,6 @@ plt.show()
 
 ```
 ![Expected Output: ](https://matplotlib.org/stable/_images/sphx_glr_marker_reference_001.png)
-<<<<<<< HEAD:1.Matplotlib Plotting/README.md
 
 
 ## Multiple Points
@@ -145,6 +144,14 @@ So, if we take the same example as above, and leave out the x-points, the diagra
 
 ```bash
 
+import matplotlib.pyplot as plt
+
+import numpy as np
+
+ypoints = np.array([3, 8, 1, 10, 5, 7])
+
+plt.plot(ypoints)
+
+plt.show()
+
 ```
-=======
->>>>>>> 8725a60e3ba5c43ca2c831e61e0d94792d2d7dee:1.Matplotlib Pyplot/README.md
