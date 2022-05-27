@@ -109,3 +109,38 @@ plt.show()
 
 ```
 ![Expected Output: ](https://matplotlib.org/stable/_images/sphx_glr_marker_reference_001.png)
+
+
+## Multiple Points
+
+You can plot as many points as you like, just make sure you have the same number of points in both axis.
+
+Example : ``
+
+```bash
+
+import matplotlib.pyplot as plot
+
+import numpy
+
+xpoint = numpy.array([1, 2, 6, 8])
+
+ypoint = numpy.array([3, 8, 1, 10])
+
+plot.plot(xpoint, ypoint)
+
+plot.show()
+
+```
+
+![Expected Output: ](https://matplotlib.org/stable/_images/sphx_glr_marker_reference_001.png)
+
+## Default X-Points
+
+If we do not specify the points in the x-axis, they will get the default values 0, 1, 2, 3, (etc. depending on the length of the y-points.
+
+So, if we take the same example as above, and leave out the x-points, the diagram will look like this:
+
+```bash
+
+```
