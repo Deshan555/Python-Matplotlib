@@ -33,6 +33,7 @@ plt.plot(xpoints, ypoints)
 plt.show()
 
 ```
+![Output](https://github.com/Deshan555/Python-Matplotlib/blob/main/1.Matplotlib%20Pyplot/Figure_1.png)
 
 ## Marker reference
 
@@ -109,6 +110,7 @@ plt.show()
 
 ```
 ![Expected Output: ](https://matplotlib.org/stable/_images/sphx_glr_marker_reference_001.png)
+<<<<<<< HEAD:1.Matplotlib Plotting/README.md
 
 
 ## Multiple Points
@@ -144,3 +146,5 @@ So, if we take the same example as above, and leave out the x-points, the diagra
 ```bash
 
 ```
+=======
+>>>>>>> 8725a60e3ba5c43ca2c831e61e0d94792d2d7dee:1.Matplotlib Pyplot/README.md
