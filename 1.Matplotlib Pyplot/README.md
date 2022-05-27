@@ -33,6 +33,7 @@ plt.plot(xpoints, ypoints)
 plt.show()
 
 ```
+![Output](https://github.com/Deshan555/Python-Matplotlib/blob/main/1.Matplotlib%20Pyplot/Figure_1.png)
 
 ## Marker reference
 
