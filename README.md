@@ -68,5 +68,8 @@ import matplotlib
 print(matplotlib.__version__)
 ```
 
+## About Common Errors
+
+
 
 
