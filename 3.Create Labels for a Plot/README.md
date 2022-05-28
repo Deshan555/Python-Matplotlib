@@ -4,7 +4,7 @@
 
 With Pyplot, you can use the `xlabel()` and `ylabel()` functions to set a label for the x- and y-axis.
 
-[**Example Code**]()
+[**Example Code ➡️ example_1.py**](https://github.com/Deshan555/Python-Matplotlib/blob/main/3.Create%20Labels%20for%20a%20Plot/example_1.py)
 
 ```javascript
 
@@ -30,6 +30,8 @@ plt.show()
 ## Create a Title for a Plot
 
 With Pyplot, you can use the `title()` function to set a title for the plot.
+
+[**Example Code ➡️ example_2.py**](https://github.com/Deshan555/Python-Matplotlib/blob/main/3.Create%20Labels%20for%20a%20Plot/example_2.py)
 
 ```javascript
 
@@ -57,6 +59,8 @@ plt.show()
 ## Set Font Properties for Title and Labels
 
 You can use the fontdict parameter in `xlabel()`, `ylabel()`, and `title()` to set font properties for the title and labels.
+
+[**Example Code ➡️ example_3.py**](https://github.com/Deshan555/Python-Matplotlib/blob/main/3.Create%20Labels%20for%20a%20Plot/example_3.py)
 
 ```javascript
 
@@ -89,6 +93,8 @@ plt.show()
 You can use the loc parameter in `title()` to position the title.
 
 Legal values are: **'left'**, **'right'**, and **'center'**. Default value is 'center'.
+
+[**Example Code ➡️ example_4.py**](https://github.com/Deshan555/Python-Matplotlib/blob/main/3.Create%20Labels%20for%20a%20Plot/example_4.py)
 
 ```javascript
 
