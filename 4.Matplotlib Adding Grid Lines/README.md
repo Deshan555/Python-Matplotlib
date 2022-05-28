@@ -31,6 +31,7 @@ plt.grid()
 plt.show()
 
 ```
+![output](https://github.com/Deshan555/Python-Matplotlib/blob/main/Screenshots/Chapter_04/Figure_1.png)
 
 ## Specify Which Grid Lines to Display
 
@@ -67,6 +68,7 @@ plt.grid(axis = 'x')
 plt.show()
 
 ```
+![output](https://github.com/Deshan555/Python-Matplotlib/blob/main/Screenshots/Chapter_04/Figure_2.png)
 
 Display only grid lines for the y-axis: : [example_3.py]()
 
@@ -97,6 +99,7 @@ plt.grid(axis = 'y')
 plt.show()
 
 ```
+![output](https://github.com/Deshan555/Python-Matplotlib/blob/main/Screenshots/Chapter_04/Figure_3.png)
 
 ## Set Line Properties for the Grid
 
@@ -128,3 +131,4 @@ plt.grid(color = 'blue', ls = '--', linewidth = 1)
 plt.show()
 
 ```
+![output](https://github.com/Deshan555/Python-Matplotlib/blob/main/Screenshots/Chapter_04/Figure_4.png)
