@@ -19,10 +19,6 @@ plot.plot(ypoints, linestyle = 'dotted')
 plot.show()
 
 ```
-**Expected Output**
-
-![Expected Output: ](https://matplotlib.org/stable/_images/sphx_glr_marker_reference_001.png)
-
 
 `plt.plot(ypoints, linestyle = 'dashed')`
 
@@ -41,9 +37,6 @@ plot.plot(ypoints, linestyle = 'dashed')
 plot.show()
 
 ```
-**Expected Output**
-
-![Expected Output: ](https://matplotlib.org/stable/_images/sphx_glr_marker_reference_001.png)
 
 ```javascript
 
@@ -58,9 +51,6 @@ plt.plot(ploatted, ls = ':')
 plt.show()
 
 ```
-**Expected Output**
-
-![Expected Output: ](https://matplotlib.org/stable/_images/sphx_glr_marker_reference_001.png)
 
 ## Shorter Syntax
 
@@ -92,10 +82,6 @@ plot.show()
 
 ```
 
-**Expected Output**
-
-![Expected Output: ](https://matplotlib.org/stable/_images/sphx_glr_marker_reference_001.png)
-
 ## Multiple Lines
 
 You can plot as many lines as you like by simply adding more `plt.plot()` functions:
@@ -118,10 +104,6 @@ plt.plot(line_2)
 plt.show()
 
 ```
-
-**Expected Output**
-
-![Expected Output: ](https://matplotlib.org/stable/_images/sphx_glr_marker_reference_001.png)
 
 You can also plot many lines by adding the points for the x- and y-axis for each line in the same plt.plot() function.
 
@@ -149,10 +131,6 @@ plot.plot(x1, y1, x2, y2)
 
 plot.show()
 
-```
-**Expected Output**
-
-![Expected Output: ](https://matplotlib.org/stable/_images/sphx_glr_marker_reference_001.png)
 
 ## Line Color
 
