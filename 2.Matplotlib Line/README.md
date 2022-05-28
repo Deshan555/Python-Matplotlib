@@ -20,7 +20,7 @@ plot.show()
 
 ```
 
-`plt.plot(ypoints, linestyle = 'dashed')`
+for add dashed lines simply use : `plt.plot(ypoints, linestyle = 'dashed')`
 
 ```javascript
 
@@ -131,6 +131,7 @@ plot.plot(x1, y1, x2, y2)
 
 plot.show()
 
+```
 
 ## Line Color
 
