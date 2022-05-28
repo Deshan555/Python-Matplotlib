@@ -25,6 +25,8 @@ plt.ylabel("Speed Per KM") # add lable for Y axies
 plt.show()
 
 ```
+![Excepted Output](https://github.com/Deshan555/Python-Matplotlib/blob/main/Screenshots/Chapter_03/Figure_1.png)
+
 ## Create a Title for a Plot
 
 With Pyplot, you can use the `title()` function to set a title for the plot.
@@ -50,6 +52,7 @@ plt.title("Speed Test For Rocket") # add title for plot
 plt.show()
 
 ```
+![Excepted Output](https://github.com/Deshan555/Python-Matplotlib/blob/main/Screenshots/Chapter_03/Figure_2.png)
 
 ## Set Font Properties for Title and Labels
 
@@ -80,6 +83,7 @@ plt.title("Speed Test For Rocket", fontdict = font_style_01) # add title for plo
 plt.show()
 
 ```
+![Excepted Output](https://github.com/Deshan555/Python-Matplotlib/blob/main/Screenshots/Chapter_03/Figure_3.png)
 
 ## Position the Title
 You can use the loc parameter in `title()` to position the title.
@@ -111,3 +115,4 @@ plt.title("Speed Test For Rocket", fontdict = font_style_01, loc = 'left') # add
 plt.show()
 
 ```
+![Excepted Output](https://github.com/Deshan555/Python-Matplotlib/blob/main/Screenshots/Chapter_03/Figure_4.png)
