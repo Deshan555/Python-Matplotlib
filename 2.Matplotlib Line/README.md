@@ -37,6 +37,7 @@ plot.plot(ypoints, linestyle = 'dashed')
 plot.show()
 
 ```
+for add dotted lines simply use : `plt.plot(ypoints, linestyle = ':'`
 
 ```javascript
 
