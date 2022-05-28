@@ -145,4 +145,4 @@ histogram.show()
 
 Result : 
 
-![screen shot]()
+![screen shot](https://github.com/Deshan555/Python-Matplotlib/blob/main/Screenshots/Chapter_08/Figure_1.png)
