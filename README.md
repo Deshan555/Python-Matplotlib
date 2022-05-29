@@ -70,6 +70,32 @@ print(matplotlib.__version__)
 
 ## About Common Errors
 
+I received the same error and I'm also in Python 3.6.0 
 
+`[AttributeError: 'version_info' object has no attribute '__version__']`
 
+If you want to dig a little more, you can type this in your console and detect which package is using this dependency.
+
+```bash
+pip show pyparsing
+```
+In my case the output was something like this, indicating that packaging:
+
+```bash
+Name: pyparsing
+Version: 2.4.7
+Summary: Python parsing module
+License: MIT License
+Location:
+Requires:
+Required-by: packaging
+```
+
+To fix it, you can go with the suggestion from PaulMcG
+
+```bash
+
+pip install pyparsing==2.4.7
+
+```
 
