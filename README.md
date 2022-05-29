@@ -1,6 +1,8 @@
 
 # Python Matplotlib
 
+![Logo](https://github.com/Deshan555/Python-Matplotlib/blob/main/Screenshots/images.jpeg)
+
 ## What is Matplotlib?
 
 * Matplotlib is a low level graph plotting library in python that serves as a visualization utility.
@@ -14,27 +16,23 @@
 
 ## Table Of Content
 
-- [Matplotlib Pyplot](https://linktodocumentation)
+- [Matplotlib Pyplot](https://github.com/Deshan555/Python-Matplotlib/tree/main/1.Matplotlib%20Pyplot)
 
-- [Matplotlib Plotting](https://linktodocumentation)
+- [Matplotlib Line](https://github.com/Deshan555/Python-Matplotlib/tree/main/2.Matplotlib%20Line)
 
-- [Matplotlib Markers](https://linktodocumentation)
+- [Matplotlib Labels](https://github.com/Deshan555/Python-Matplotlib/tree/main/3.Create%20Labels%20for%20a%20Plot)
 
-- [Matplotlib Line](https://linktodocumentation)
+- [Matplotlib Grid](https://github.com/Deshan555/Python-Matplotlib/tree/main/4.Matplotlib%20Adding%20Grid%20Lines)
 
-- [Matplotlib Labels](https://linktodocumentation)
+- [Matplotlib Subplot](https://github.com/Deshan555/Python-Matplotlib/tree/main/5.Matplotlib%20Subplot)
 
-- [Matplotlib Grid](https://linktodocumentation)
+- [Matplotlib Scatter](https://github.com/Deshan555/Python-Matplotlib/tree/main/6.Matplotlib%20Scatter)
 
-- [Matplotlib Subplot](https://linktodocumentation)
+- [Matplotlib Bars](https://github.com/Deshan555/Python-Matplotlib/tree/main/7.Matplotlib%20Bar%20Charts)
 
-- [Matplotlib Scatter](https://linktodocumentation)
+- [Matplotlib Histograms](https://github.com/Deshan555/Python-Matplotlib/tree/main/8.Matplotlib%20Histograms)
 
-- [Matplotlib Bars](https://linktodocumentation)
-
-- [Matplotlib Histograms](https://linktodocumentation)
-
-- [Matplotlib Pie Charts](https://linktodocumentation)
+- [Matplotlib Pie Charts](https://github.com/Deshan555/Python-Matplotlib/tree/main/9.Matplotlib%20Pie%20Charts)
 
 
 
@@ -94,8 +92,6 @@ Required-by: packaging
 To fix it, you can go with the suggestion from PaulMcG
 
 ```bash
-
 pip install pyparsing==2.4.7
-
 ```
 
