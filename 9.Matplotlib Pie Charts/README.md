@@ -22,7 +22,7 @@ plt.show()
 
 **Result**
 
-![appshots]()
+![appshots](https://github.com/Deshan555/Python-Matplotlib/blob/main/Screenshots/Chapter_09/Figure_1.png)
 
 
 ## Labels
@@ -49,7 +49,7 @@ plt.show()
 
 **Result**
 
-![appshots]()
+![appshots](https://github.com/Deshan555/Python-Matplotlib/blob/main/Screenshots/Chapter_09/Figure_2.png)
 
 ## Explode
 
@@ -80,7 +80,7 @@ plt.show()
 ```
 **Result**
 
-![appshots]()
+![appshots](https://github.com/Deshan555/Python-Matplotlib/blob/main/Screenshots/Chapter_09/Figure_3.png)
 
 ## Legend
 
@@ -105,4 +105,4 @@ plt.show()
 
 **Result**
 
-![appshots]()
+![appshots](https://github.com/Deshan555/Python-Matplotlib/blob/main/Screenshots/Chapter_09/Figure_4.png)
