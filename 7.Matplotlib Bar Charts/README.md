@@ -131,3 +131,30 @@ plt.show()
 **Result**
 
 ![app screenshot]()
+
+## Bar Color
+
+The `bar()` and `barh()` takes the keyword argument color to set the color of the bars
+
+**Example**
+
+
+```javascript
+
+import matplotlib.pyplot as plt
+
+import numpy as np
+
+Xpoints = ["Apples", "Bananas", "Oranges"]
+
+Ypoints = [400, 600, 566]
+
+plt.barh(Xpoints, Ypoints, color = 'gray') # you can add bar colors using 'color' or 'c' keyword
+
+plt.show()
+
+```
+
+**Result**
+
+![app screenshot]()
