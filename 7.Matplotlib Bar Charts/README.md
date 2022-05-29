@@ -24,7 +24,7 @@ plt.show()
 
 **Result**
 
-![app screenshot]()
+![app screenshot](https://github.com/Deshan555/Python-Matplotlib/blob/main/Screenshots/Chapter_07/Figure_1.png)
 
 The `bar()` function takes arguments that describes the layout of the bars.
 
@@ -50,7 +50,7 @@ plt.show()
 
 **Result**
 
-![app screenshot]()
+![app screenshot](https://github.com/Deshan555/Python-Matplotlib/blob/main/Screenshots/Chapter_07/Figure_2.png)
 
 ## Horizontal Bars
 
@@ -74,7 +74,7 @@ plt.show()
 
 **Result**
 
-![app screenshot]()
+![app screenshot](https://github.com/Deshan555/Python-Matplotlib/blob/main/Screenshots/Chapter_07/Figure_4.png)
 
 ## Bar Width
 
@@ -99,7 +99,7 @@ plt.show()
 
 **Result**
 
-![app screenshot]()
+![app screenshot](https://github.com/Deshan555/Python-Matplotlib/blob/main/Screenshots/Chapter_07/Figure_5.png)
 
 ## Bar Height
 
@@ -130,7 +130,7 @@ plt.show()
 
 **Result**
 
-![app screenshot]()
+![app screenshot](https://github.com/Deshan555/Python-Matplotlib/blob/main/Screenshots/Chapter_07/Figure_4.png)
 
 ## Bar Color
 
@@ -157,4 +157,4 @@ plt.show()
 
 **Result**
 
-![app screenshot]()
+![app screenshot](https://github.com/Deshan555/Python-Matplotlib/blob/main/Screenshots/Chapter_07/Figure_4.png)
